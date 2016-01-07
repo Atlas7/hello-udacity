@@ -1,0 +1,15 @@
+application: mini-apps
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: yes
+
+handlers:
+- url: .*
+  script: templates.app
+
+libraries:
+- name: jinja2
+  version: latest
+- name: webapp2
+  version: "2.5.2"
