@@ -1,0 +1,6 @@
+user: bob
+password: password123
+email: bob@jmail.com
+
+cookie...
+user_id="5629499534213120|9dd2d474ff4f329833451b1976e0f064"
